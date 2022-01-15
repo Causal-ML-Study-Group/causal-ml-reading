@@ -1,4 +1,4 @@
-# causal-ml-reading
+# Causal ML Reading
 A curated list of references on causal ML
 
 * [Books](#books)
