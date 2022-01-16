@@ -1,6 +1,7 @@
 # Causal ML Reading
 A curated list of references on causal ML
 
+## Contents
 * [Books](#books)
 * [Github Repos](#gh); codes and tutorials
 * [Curated reading lists](#readings)
