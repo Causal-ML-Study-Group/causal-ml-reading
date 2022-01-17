@@ -17,7 +17,7 @@ A curated list of references on causal ML
 * [Element of Causal Inference](https://library.oapen.org/bitstream/id/056a11be-ce3a-44b9-8987-a6c68fce8d9b/11283.pdf)
 
 ## <div id='videos'>Videos</div>
-* [Statistical rethinking lectures](https://www.youtube.com/watch?v=cclUd_HoRlo)
+* [Statistical rethinking lectures](https://www.youtube.com/channel/UCNJK6_DZvcMqNSzQdEkzvzA/videos)
 
 
 ## <div id='readings'>Curated reading lists</div>
