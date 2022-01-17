@@ -3,7 +3,7 @@ A curated list of references on causal ML
 
 ## Contents
 * [Books](#books)
-* [Videos](#Vidoes)
+* [Videos](#Videos)
 * [Github Repos](#gh); codes and tutorials
 * [Curated reading lists](#readings)
 * [Code Libraries](#libraries)
