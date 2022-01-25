@@ -18,6 +18,7 @@ A curated list of references on causal ML
 
 ## <div id='videos'>Videos</div>
 * [Statistical rethinking lectures](https://www.youtube.com/channel/UCNJK6_DZvcMqNSzQdEkzvzA/videos)
+* [Online causal inference seminar](https://www.youtube.com/channel/UCiiOj5GSES6uw21kfXnxj3A/videos)
 
 
 ## <div id='readings'>Curated reading lists</div>
