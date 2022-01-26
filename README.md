@@ -18,6 +18,7 @@ A curated list of references on causal ML
 
 ## <div id='videos'>Videos</div>
 * [Statistical rethinking lectures](https://www.youtube.com/channel/UCNJK6_DZvcMqNSzQdEkzvzA/videos)
+* [Online causal inference seminar](https://www.youtube.com/channel/UCiiOj5GSES6uw21kfXnxj3A/videos)
 
 
 ## <div id='readings'>Curated reading lists</div>
@@ -31,3 +32,6 @@ A curated list of references on causal ML
 ## <div id='libraries'>Code Libraries</div>
 * [CausalML, Uber](https://github.com/uber/causalml)
 * [Pyro](https://github.com/pyro-ppl/pyro)
+* [bnlearn](https://www.bnlearn.com/)
+* [Causal Discovery Toolbox](https://fentechsolutions.github.io/CausalDiscoveryToolbox/html/index.html)
+* [Causal Diagram Analysis](http://dagitty.net/)
