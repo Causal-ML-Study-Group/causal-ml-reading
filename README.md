@@ -32,3 +32,6 @@ A curated list of references on causal ML
 ## <div id='libraries'>Code Libraries</div>
 * [CausalML, Uber](https://github.com/uber/causalml)
 * [Pyro](https://github.com/pyro-ppl/pyro)
+* [bnlearn](https://www.bnlearn.com/)
+* [Causal Discovery Toolbox](https://fentechsolutions.github.io/CausalDiscoveryToolbox/html/index.html)
+* [Causal Diagram Analysis](http://dagitty.net/)
