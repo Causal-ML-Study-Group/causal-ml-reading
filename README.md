@@ -34,4 +34,4 @@ A curated list of references on causal ML
 * [Pyro](https://github.com/pyro-ppl/pyro)
 * [bnlearn](https://www.bnlearn.com/)
 * [Causal Discovery Toolbox](https://fentechsolutions.github.io/CausalDiscoveryToolbox/html/index.html)
-* [Causal Diagram Analysis](http://dagitty.net/)
+* [Causal Diagram Analysis, Daggity.net](http://dagitty.net/)
