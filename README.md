@@ -15,7 +15,9 @@ A curated list of references on causal ML
 * [Causal Inference: The Mixtape, Cunningham](https://mixtape.scunning.com/)
 * [Statistical rethinking, McElreath](https://xcelab.net/rm/statistical-rethinking/)
 * [Element of Causal Inference, Peters et al.](https://library.oapen.org/bitstream/id/056a11be-ce3a-44b9-8987-a6c68fce8d9b/11283.pdf)
-* [Introduction to Causal Inference course](https://www.bradyneal.com/causal-inference-course)
+* [Introduction to Causal Inference course, Brady Neal](https://www.bradyneal.com/causal-inference-course)
+* [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
+
 
 ## <div id='videos'>Videos</div>
 * [Statistical rethinking lectures](https://www.youtube.com/channel/UCNJK6_DZvcMqNSzQdEkzvzA/videos)
