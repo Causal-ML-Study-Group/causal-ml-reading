@@ -7,6 +7,7 @@ A curated list of references on causal ML
 * [Github Repos](#gh); codes and tutorials
 * [Curated reading lists](#readings)
 * [Code Libraries](#libraries)
+* [Blogs](#blogs)
 
 ## <div id='books'>Books</div>
 * [Causal Inference in Statistics: A Primer, J. Pearl et al.](http://bayes.cs.ucla.edu/PRIMER/)
@@ -39,3 +40,7 @@ A curated list of references on causal ML
 * [bnlearn](https://www.bnlearn.com/)
 * [Causal Discovery Toolbox](https://fentechsolutions.github.io/CausalDiscoveryToolbox/html/index.html)
 * [Causal Diagram Analysis, Daggity.net](http://dagitty.net/)
+
+## <div id='blogs'>Blogs</div>
+* [Causal Reinforcement Learning](https://stjohngrimbly.com/causal-reinforcement-learning/)
+
