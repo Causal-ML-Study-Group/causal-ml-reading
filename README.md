@@ -44,4 +44,5 @@ A curated list of references on causal ML
 
 ## <div id='blogs'>Blogs</div>
 * [Causal Reinforcement Learning](https://stjohngrimbly.com/causal-reinforcement-learning/)
+* [Causal Reinforcement Learning tutorial (Elias Bareinboim)](https://crl.causalai.net/)
 
