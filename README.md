@@ -33,6 +33,7 @@ A curated list of references on causal ML
 * [CausalML, Atldeep](https://github.com/altdeep/causalML)
 * [Causal Machine learning, kdd2021 tutorial](https://github.com/causal-machine-learning/kdd2021-tutorial)
 * [Statistical rethinking with numpyro](https://github.com/fehiepsi/rethinking-numpyro)
+* [Primer Example Calculations](https://github.com/DataForScience/Causality)
 
 ## <div id='libraries'>Code Libraries</div>
 * [CausalML, Uber](https://github.com/uber/causalml)
