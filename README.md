@@ -18,6 +18,7 @@ A curated list of references on causal ML
 * [Element of Causal Inference, Peters et al.](https://library.oapen.org/bitstream/id/056a11be-ce3a-44b9-8987-a6c68fce8d9b/11283.pdf)
 * [Introduction to Causal Inference course, Brady Neal](https://www.bradyneal.com/causal-inference-course)
 * [Causal Inference for The Brave and True, Matheus Facure Alves, 2021](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
+* [Statistical Tools for Causal Inference](https://chabefer.github.io/STCI/)
 
 
 ## <div id='videos'>Videos</div>
