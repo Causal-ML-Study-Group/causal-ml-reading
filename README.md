@@ -42,6 +42,7 @@ A curated list of references on causal ML
 * [bnlearn](https://www.bnlearn.com/)
 * [Causal Discovery Toolbox](https://fentechsolutions.github.io/CausalDiscoveryToolbox/html/index.html)
 * [Causal Diagram Analysis, Daggity.net](http://dagitty.net/)
+* [DoWhy](https://microsoft.github.io/dowhy/)
 
 ## <div id='blogs'>Blogs</div>
 * [Causal Reinforcement Learning](https://stjohngrimbly.com/causal-reinforcement-learning/)
