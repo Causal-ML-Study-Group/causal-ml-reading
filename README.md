@@ -20,6 +20,7 @@ A curated list of references on causal ML
 * [Causal Inference for The Brave and True, Matheus Facure Alves, 2021](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
 * [Statistical Tools for Causal Inference, Sylvain Chabé-Ferret, 2022](https://chabefer.github.io/STCI/)
 * [Causal Inference: The Mixtape](https://mixtape.scunning.com/index.html)
+* [ML-based Causal Inference tutorial](https://bookdown.org/connect/#/apps/3e3ee3cb-b53e-4956-b8d3-a3243e663162/access/1618)
 
 
 ## <div id='videos'>Videos</div>
